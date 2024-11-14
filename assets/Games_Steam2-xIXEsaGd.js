@@ -38405,7 +38405,7 @@ Trap Legend Theme Song,,
 Gemini Strategy Origin,,
 Brain Marmelade,,
 Forsaken Flesh,,
-"Warhammer 40,000: Darktide",,
+"Warhammer 40,000: Darktide",,https://image.nostr.build/0c405bdb168c05f21f54b3bda39852eb2f9fa851068367eccd69f2bc0526a600.jpg
 Cleo - a pirate's tale,,
 Teenage Blob: Paperperson - The First Single,,
 Necronator: Dead Wrong - Special Commander Skin,,
