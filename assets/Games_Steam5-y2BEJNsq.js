@@ -8289,7 +8289,7 @@ Super Alloy Crush,,
 宗门志 Playtest,,
 宗门志 Demo,,
 TerraCube,,
-inZOI: Character Studio,,
+inZOI,,https://image.nostr.build/a5a19f75020072cec1a24a6a5efe36af331e24fb7a00d736a85b9e7b122c2c26.jpg
 Fast video cutter joiner,,
 Alchemy in Dungeon,,
 Godly Visage,,
